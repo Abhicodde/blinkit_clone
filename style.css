@@ -223,3 +223,9 @@ td:hover{
         position: static;
     }
 }
+@media screen and (max-width:768px){
+    #hero-section{
+        width:300px;
+    }
+    
+}
